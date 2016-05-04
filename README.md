@@ -1,2 +1,3 @@
 # hello-world
-test
+
+sam chen i hate the character type
